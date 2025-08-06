@@ -19,6 +19,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </a>-->
 
 <!----------------------------  My Skills Include ----------------------------------------------->
+## My Skills Include
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,6 +44,5 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=JorgeC15&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JorgeC15)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeC15&theme=material-palenight)](https://github.com/JorgeC15)
 </div>
 
