@@ -38,3 +38,11 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
+<!----------------------------  Github stats ----------------------------------------------->
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JorgeC15&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JorgeC15)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeC15&theme=material-palenight)](https://github.com/JorgeC15)
+</div>
+
