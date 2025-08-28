@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi , I'm Jorge Canche </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi, I’m Jorge Canché</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2> 🔐 Cybersecurity Enthusiast | 💻 Software Developer | ☁️ Exploring Cloud Security  </h2>
 <!--  -->
 
 <!---------------------------- About me ----------------------------------------------->
@@ -6,14 +7,47 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 📫 Reach out to me at: <a href="jorgecanche19@gmail.com">jorgecanche19@gmail.com</a>
+I’m a Computer Engineering graduate with a specialization in Cybersecurity. Currently, I work as a Software Developer, but my true passion lies in protecting systems, networks, and applications against threats. My background in development gives me a strong advantage when it comes to securing applications and understanding how systems are built.
+
+🌱 Currently learning:
+
+Docker & Cloud Security
+
+Penetration Testing & Vulnerability Assessment
+
+Operating Systems & Network Security
+
+🛡️ Cybersecurity & Networking Experience:
+
+Penetration Testing (web & network).
+
+Vulnerability assessments and secure coding practices.
+
+Network setup and administration (LAN/WAN, VLANs, routing).
+
+Implementation of security controls and monitoring.
+
+⚡ Tech Stack:
+
+Development: React, .NET, Laravel, C#
+
+Databases & APIs: SQL, REST APIs
+
+Security: Kali Linux, Metasploit, Burp Suite, Wireshark
+
+🚀 Goals: Grow as a professional in Cybersecurity & Cloud Security, contribute to open-source security projects, and keep exploring innovative ways to make systems safer.
+
+🌍 Beyond tech:
+
+⚽ Playing football
+
+🎵 Listening to music
+
+🚗 Driving and going out with friends
+
+🎮 Playing video games
+
+📫 Reach me at: jorgecanche19@gmail.com
 <!--<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>-->
