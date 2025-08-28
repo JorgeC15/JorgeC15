@@ -1,5 +1,5 @@
 <h1 align="center"><b> Hi, I’m Jorge Canché</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2> 🔐 Cybersecurity Enthusiast | 💻 Software Developer | ☁️ Exploring Cloud Security  </h2>
+<h2 align="center"> 🔐 Cybersecurity Enthusiast | 💻 Software Developer | ☁️ Exploring Cloud Security  </h2>
 <!--  -->
 
 <!---------------------------- About me ----------------------------------------------->
@@ -10,44 +10,29 @@
 I’m a Computer Engineering graduate with a specialization in Cybersecurity. Currently, I work as a Software Developer, but my true passion lies in protecting systems, networks, and applications against threats. My background in development gives me a strong advantage when it comes to securing applications and understanding how systems are built.
 
 🌱 Currently learning:
-
-Docker & Cloud Security
-
-Penetration Testing & Vulnerability Assessment
-
-Operating Systems & Network Security
+- Penetration Testing & Vulnerability Assessment
+- Operating Systems & Network Security
+- Docker & Cloud Security
 
 🛡️ Cybersecurity & Networking Experience:
-
-Penetration Testing (web & network).
-
-Vulnerability assessments and secure coding practices.
-
-Network setup and administration (LAN/WAN, VLANs, routing).
-
-Implementation of security controls and monitoring.
+- Penetration Testing (web & network).
+- Vulnerability assessments and secure coding practices.
+- Network setup and administration (LAN/WAN, VLANs, routing).
+- Implementation of security controls and monitoring.
 
 ⚡ Tech Stack:
-
-Development: React, .NET, Laravel, C#
-
-Databases & APIs: SQL, REST APIs
-
-Security: Kali Linux, Metasploit, Burp Suite, Wireshark
+- Development: React, .NET, Laravel, C#
+- Databases & APIs: SQL, REST APIs
+- Security: Kali Linux, Metasploit, Burp Suite, Wireshark
 
 🚀 Goals: Grow as a professional in Cybersecurity & Cloud Security, contribute to open-source security projects, and keep exploring innovative ways to make systems safer.
 
 🌍 Beyond tech:
-
-⚽ Playing football
-
-🎵 Listening to music
-
-🚗 Driving and going out with friends
-
-🎮 Playing video games
-
-📫 Reach me at: jorgecanche19@gmail.com
+- ⚽ Playing football
+- 🎵 Listening to music
+- 🚗 Driving and going out with friends
+- 🎮 Playing video games
+- 📫 Reach me at: jorgecanche19@gmail.com
 <!--<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>-->
@@ -79,7 +64,18 @@ Security: Kali Linux, Metasploit, Burp Suite, Wireshark
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+  </span>
+
+  <h4> Cybersecurity Tools & Skills </h4>
+  <span>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </span>
+
 
 <!----------------------------  Github stats ----------------------------------------------->
 
